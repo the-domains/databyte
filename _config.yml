@@ -1,0 +1,28 @@
+name: databyte
+favicon: null
+layout_spectrum: 0.31599046802148223
+typography_spectrum: 0.04382837936282158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8702205528970808
+  lightness: 0.33653127518482506
+  saturation: 0.4238766860216856
+  rhythmicContrast: 0.5416286832187325
+purpose: []
